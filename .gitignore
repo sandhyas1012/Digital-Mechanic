@@ -1,0 +1,23 @@
+# Python and Virtual Env
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Heavy AI Cache and Models
+.cache/
+.huggingface/
+.torch/
+
+# Databases and Downloaded Data
+qdrant_data/
+video_frames/
+temp_downloads/
+
+# Large Files (Manuals)
+*.pdf
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db

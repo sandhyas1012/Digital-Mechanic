@@ -1,0 +1,17 @@
+qdrant-client
+torch
+transformers
+accelerate
+einops
+timm
+pymupdf
+pillow
+pdf2image
+ragas
+yt-dlp
+google-api-python-client
+playwright
+youtube-transcript-api
+google-genai
+opencv-python
+python-dotenv
